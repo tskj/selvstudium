@@ -41,6 +41,10 @@ F#
 
 * [Type Driven Domain Modelling](http://lucasmreis.github.io/blog/type-driven-domain-modelling-part-1/)
 
+* [Getting Started with F# in Visual Studio Code (not Core!)](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tutorials/getting-started/getting-started-vscode)
+
+* [Recipe for functional app (railway oriented programming)](https://fsharpforfunandprofit.com/series/a-recipe-for-a-functional-app.html)
+
 
 Generelle ressursar for vidare læring
 -------------------------------------
