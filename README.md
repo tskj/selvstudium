@@ -1,6 +1,6 @@
 Dette er for det meste meint som ein privat backup av læringsprosjekt eg har
-i tankane / som eg har starta - men det er hyggeleg om nokon vil lese han
-alikvel.
+i tankane / som eg har starta - men det er forsåvidt hyggeleg om nokon vil lese
+han likevel.
 
 `prosjekt.md` er småidear eg har hatt og har lyst å kome tilbake til på eit
 tidspunkt.
