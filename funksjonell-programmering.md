@@ -7,7 +7,7 @@ potensiale for raskare og meir korrekt utvikling.
 
 Spesielt har eg lyst å nytte dette med tanke på Web. Eg synest Haskell er gøy,
 men PureScript kan brukast for front-end (kompilerer til JavaScript), og F#
-kan brukast som ein ASP.NET back-end.
+kan brukast som ein ASP.NET (Core?) back-end.
 
 
 PureScript
@@ -38,6 +38,8 @@ F#
 * [Microsoft's Tour of F#](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour)
 
 * [5 parts Introduction to Functional Programming with F#](https://www.youtube.com/watch?list=PLEoMzSkcN8oNiJ67Hd7oRGgD1d4YBxYGC&v=Teak30_pXHk&app=desktop)
+
+* [Type Driven Domain Modelling](http://lucasmreis.github.io/blog/type-driven-domain-modelling-part-1/)
 
 
 Generelle ressursar for vidare læring
