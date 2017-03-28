@@ -33,4 +33,10 @@ ML
 
 [Neural Networks and Deep Learning - Free Online Book](http://neuralnetworksanddeeplearning.com/)
 
-Bok: *Elements of Statistcal Learning* av Hastie and Tibshirani
+### Maskinlæringsbiblane ###
+
+[*Elements of Statistcal Learning* av Hastie og Tibshirani](http://lucasmreis.github.io/blog/type-driven-domain-modelling-part-1/)
+
+[*Pattern Recognition and Machine Learning* av Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/)
+
+[*Machine Learning: A Probabilistic Perspective* av Kevin P. Muprhy](https://mitpress.mit.edu/books/machine-learning-0)
