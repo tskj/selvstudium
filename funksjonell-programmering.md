@@ -33,7 +33,7 @@ F#
 
 * [Enno meir Fun and Profit! No med Typar](https://fsharpforfunandprofit.com/posts/types-intro/)
 
-* [For nybyrjarar - omfattande!](https://sachabarbs.wordpress.com/1406-2/)
+* [For nybyrjarar - omfattande! (obs dårleg)](https://sachabarbs.wordpress.com/1406-2/)
 
 * [Microsoft's Tour of F#](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour)
 
@@ -45,9 +45,14 @@ F#
 
 * [Recipe for functional app (railway oriented programming)](https://fsharpforfunandprofit.com/series/a-recipe-for-a-functional-app.html)
 
+* [Ad-hoc Polymorphism (how to survive without typeclasses)](http://withouttheloop.com/articles/2014-10-21-fsharp-adhoc-polymorphism/)
+
+
 
 Generelle ressursar for vidare læring
 -------------------------------------
+
+[Monad transformers](http://blog.sigfpe.com/2006/05/grok-haskell-monad-transformers.html)
 
 [Haskell syllabus](https://www.fpcomplete.com/haskell-syllabus)
 
