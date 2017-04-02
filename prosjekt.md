@@ -105,6 +105,8 @@ Perl 5 eller 6? Gjer research.
 
 Følg [Ry's git Tutorial.](http://rypress.com/tutorials/git/index)
 
+[PeepCode Git Internals (PDF)](https://github.com/pluralsight/git-internals-pdf/releases)
+
 ### Webinar om Web ###
 
 [Lærte redditbrukar betre enn hans eigen professor](https://m.reddit.com/r/programming/comments/5hlx4e/this_guy_taught_me_better_than_my_professor/)
