@@ -113,6 +113,22 @@ Følg [Ry's git Tutorial.](http://rypress.com/tutorials/git/index)
 
 Antakeleg om diverse Webteknologiar?
 
+### Open Source ###
+
+Bidra til **Dolphin** (GameCube- og Wii-emulatoren) og **VSCodeVim**.
+
+ * **Dolphin (C++)** har støtte for 3D. Her er det to frie variablar, avstanden
+ mellom dei virtuelle kameraa og forskyvninga mellom bileta som blir vist fram.
+ På ein gitt fysisk skjerm er det derimot ikkje noko reelt val kor stor denne
+ forskyvinga skal vere; for lita og uendeleg langt borte blir ikkje så langt,
+ for stor og sjåaren blir kryss-augd. Gjer slik skjermstorleiken kan setjast,
+ og deretter kan storleiken på verda bestemmast etter sjåarens preferanse (ein
+ reelt fri variabel), og resten blir implementert deretter.
+
+ * **VSCodeVim (TypeScript)** Fix buggar: record and playback (q) fungerer
+ dårleg, og manøvrering med haker ([), (]) og krøllparenteser ({) og ({), er
+ feil.
+
 
 Skriveprosjekt
 --------------
@@ -156,7 +172,6 @@ og korleis rekker kan brukast for å vise at han er `n log n`.
 Skriv om analytisk utleding av den deriverte av Up Arrow funksjonen.
 
 Eg har også skrive Haskellkode som implementerer ein numerisk verifikasjon.
-
 
 
 Diverse
