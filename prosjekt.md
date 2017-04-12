@@ -97,7 +97,9 @@ Følg R-tutorial på [tutorialspoint.](http://tutorialspoint.com/r/r_basic_synta
 
 ### Vim-tutorial ###
 
-Følg Vim-tutorial på stackoverflow - finnast på epost.
+~~[Følg Vim-tutorial på stackoverflow.](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim#1220118)~~
+
+~~[Vist til av denne redditkommentar-primeren.](https://www.reddit.com/r/ProgrammerHumor/comments/59pipx/apple_touch_bar_for_developers_will_look_like_this/d9alcde/)~~
 
 ### Perl og Git ###
 
