@@ -130,7 +130,7 @@ Bidra til **Dolphin** (GameCube- og Wii-emulatoren) og **VSCodeVim**.
  reelt fri variabel), og resten blir implementert deretter.
 
  * **VSCodeVim (TypeScript)** Fix buggar: record and playback (q) fungerer
- dårleg, og manøvrering med haker ([), (]) og krøllparenteser ({) og ({), er
+ dårleg, og sletting med haker ([), (]) og krøllparenteser ({) og ({), er
  feil.
 
 **Eige arbeid**
