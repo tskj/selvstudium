@@ -16,7 +16,7 @@ verkar, eller for å lære meir om paradigme innanfor språka.
 Implementer ei algoritme / funksjon av typen `List a -> List (List a)` som
 genererer alle moglege permutasjonar av lista i C, Python og Haskell.
 
-### Implementasjon av irrationale (og transendentale?) tal ###
+### Implementasjon av irrasjonale (og transendentale?) tal ###
 
 Implementer, vha. lazy evaluation, uendeleg presisjon for reelle tal. Dette kan
 gjerast slik at dei spyttar ut siffer etterkvart som dei blir spurne om det.
@@ -132,6 +132,34 @@ Bidra til **Dolphin** (GameCube- og Wii-emulatoren) og **VSCodeVim**.
  * **VSCodeVim (TypeScript)** Fix buggar: record and playback (q) fungerer
  dårleg, og manøvrering med haker ([), (]) og krøllparenteser ({) og ({), er
  feil.
+
+**Eige arbeid**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sett opp ein backing server for `tarjei.org` med Digital Ocean og Node.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Forbetre XML-parseren frå `nan-server` til å parse korrekt XML, og legge ut
+i eige repo på Github.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Skille på anførselsteikn-atributtar og fnutt-atributtar
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Handtere entitetsreferansar (inkludert escaping av dei?)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Handtere teksnodar
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Handthere kommentarar
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Legge ut `EN-DAT`-prosjektet.
 
 
 Skriveprosjekt
