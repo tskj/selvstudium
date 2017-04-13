@@ -51,6 +51,8 @@ Chrome-dinosaurspelet.
 Inspirert av Matt Parker-video om temaet. Implementer i Python og sjå på Markov-
 chains.
 
+[Analyse av stigespelet med bla. Markov Chains](http://www.datagenetics.com/blog/november12011/)
+
 ### Høgreklikksanimasjon ###
 
 Fine og brukervenlege brukergrensesnitt er viktige. Testinterface med to

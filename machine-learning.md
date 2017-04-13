@@ -13,6 +13,8 @@ Statistikk og sannsynsrekning
 
 [Khan Academy er the shit](https://www.khanacademy.org/math/statistics-probability)
 
+[Game Balance Concepts (syllabus)](https://gamebalanceconcepts.wordpress.com/)
+
 
 ML
 ----
