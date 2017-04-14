@@ -93,6 +93,21 @@ kan brukast for å "høre" dette gjennom lyden av dusjen. For også slik praktis
  / lært meir om Android (om dette skal implementerast på Anroid, ettersom det
 verkar vanskeleg å gjere på iOS).
 
+### JS Frameworks ###
+
+Redux og React ressursar:
+
+ * [Redux](https://egghead.io/courses/getting-started-with-redux)
+ * [React](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+
+Angular
+
+Ember?
+
+Vue?
+
+Aurelia?
+
 ### R-tutorial ###
 
 Følg R-tutorial på [tutorialspoint.](http://tutorialspoint.com/r/r_basic_syntax.htm)
