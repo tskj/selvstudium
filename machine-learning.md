@@ -15,7 +15,7 @@ Statistikk og sannsynsrekning
 
 [Game Balance Concepts (syllabus)](https://gamebalanceconcepts.wordpress.com/)
 
-[Search algorithms, constraint satisfaction og liknande (CS188)](https://www.youtube.com/watch?v=W1S-HSakPTM)
+[Search algorithms, constraint satisfaction og liknande (CS188)](https://www.youtube.com/watch?v=RW2pAPN9WmE)
 
 
 ML
