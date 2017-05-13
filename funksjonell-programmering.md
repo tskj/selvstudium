@@ -61,3 +61,5 @@ Generelle ressursar for vidare læring
 [Lisp 99-problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
 
 [Recursion, Continuations and Trampolines](http://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
+
+[Monads to Machine Code (JIT?)](http://www.stephendiehl.com/posts/monads_machine_code.html)
