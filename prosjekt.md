@@ -38,6 +38,13 @@ undersøkjast.
 Implementer på 3(?) forskjellige måtar, inkludert ein tail-recursive ein, i
 Haskell.
 
+### Reminder app ###
+
+Ein meir intelligent kalender-liknande, reminder app. Gir notifikasjon ved
+spesielle høver, i staden for spesielle klokkeslett - for eksempel når du har
+ankomme ein spesiell stad. Events kan vere komplekse, og inkludere tid,
+lokasjon, at føregåande eventer har hendt, etc.
+
 ### RAG ###
 
 Skriv eit spel (Raptor Galore) i svart kvitt som køyrer på terminalen ved bruk
