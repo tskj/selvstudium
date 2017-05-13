@@ -183,6 +183,17 @@ Handthere kommentarar
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Legge ut `EN-DAT`-prosjektet.
 
+### Lære meir om lågnivå og systemprogrammering ###
+
+ * [Linux Kernel Challenge](http://eudyptula-challenge.org/)
+ * [Crypto challenge](http://cryptopals.com/)
+ * [First Kernel Patch](https://kernelnewbies.org/FirstKernelPatch)
+
+RAII i C++ vs rask kode (zero cost abstraction er ikkje gratis, som Jonathan
+Blow seier). Rust er også spanande i forhold til eigarskapsreglar. Go kanskje,
+med tanke på concurrency og corutiner.
+
+[Digital signal prosessering (DSP)](http://www.dspguide.com/)
 
 Skriveprosjekt
 --------------
