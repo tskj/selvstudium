@@ -35,6 +35,14 @@ ML
 
 [Neural Networks and Deep Learning - Free Online Book](http://neuralnetworksanddeeplearning.com/)
 
+### Ressursar ###
+
+[Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
+
+[Deconvolution patterns](http://distill.pub/2016/deconv-checkerboard/)
+
+[What's wrong with autoencoders?](https://danielwaterworth.github.io/posts/what%27s-wrong-with-autoencoders.html)
+
 ### Maskinlæringsbiblane ###
 
 [*Elements of Statistcal Learning* av Hastie og Tibshirani](http://lucasmreis.github.io/blog/type-driven-domain-modelling-part-1/)
