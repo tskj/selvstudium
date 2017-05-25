@@ -43,7 +43,11 @@ ML
 
 [Deconvolution patterns](http://distill.pub/2016/deconv-checkerboard/)
 
-[What's wrong with autoencoders?](https://danielwaterworth.github.io/posts/what%27s-wrong-with-autoencoders.html)
+[What's wrong with autoencoders?](https://danielwaterworth.github.io/posts/what's-wrong-with-autoencoders.html)
+
+[Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225)
+
+[Deep nets don't learn via memorization](https://openreview.net/pdf?id=rJv6ZgHYg)
 
 ### Maskinlæringsbiblane ###
 
