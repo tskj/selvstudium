@@ -37,6 +37,16 @@ ML
 
 [Neural Networks and Deep Learning - Free Online Book](http://neuralnetworksanddeeplearning.com/)
 
+### Martins tips ###
+
+Bacheloroppgåva hans
+
+[Vincent har Udacity om Tensor Floq](https://www.udacity.com/course/deep-learning--ud730)
+
+[Deep Learning på Youtube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+
+[Michael Nielson](http://neuralnetworksanddeeplearning.com/)
+
 ### Ressursar ###
 
 [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
