@@ -17,6 +17,8 @@ Statistikk og sannsynsrekning
 
 [Search algorithms, constraint satisfaction og liknande (CS188)](https://www.youtube.com/watch?v=RW2pAPN9WmE)
 
+[How Bayesian Inference Works](https://brohrer.github.io/how_bayesian_inference_works.html)
+
 
 ML
 ----

@@ -45,6 +45,31 @@ spesielle høver, i staden for spesielle klokkeslett - for eksempel når du har
 ankomme ein spesiell stad. Events kan vere komplekse, og inkludere tid,
 lokasjon, at føregåande eventer har hendt, etc.
 
+### Navigasjonsapp ###
+
+Vanskelig å huske rute ein ser på Google Maps (type ta til venstre femte blokk
+etter rundkjøringa), også upraktisk å ha appen oppe til ei kvar tid. Vil gjerne
+sjekke appen ein gong, så hugse ruta. Enklare å hugse landemerke! For eksmepel
+ved å bruke Street View bilder, kan automatiserast til å vise skjermdump i den
+retninga ein skal gå i ein sving. For eksempel ei serie på fem bileter der ein
+skal svinge er enklare å hugse. "Sving hit når du ser dette."
+
+### Logaritmisk todoliste ###
+
+Pythonmannen pratar om logaritmisk inndeling av gjeremål/ønsker/todoliste.
+Eit av problema er at ein konstant repeterer det ein skal hugse, ein måte
+å mitigere dette på er å skrive det ned - men todolister blir ofte uendeleg
+lange, og blandar ting ein vil gjere i løpet av dagen og i løpet av livet.
+Han føreslår å dele dei inn i bolkar, og eg føreslår ein app som ikkje
+tillet ein å sjå på vekesmåla meir enn ein gong om dagen, og månadsmåla
+berre ein gong i veka. I denne luka kan ein flytte over ting ein vil oppnå
+i løpet av veka frå månadsmåla til vekesmåla. Ein kan også nedprioritere ting
+om ein innser at det ikkje er så viktig å gjere dei enno. Dagsmåla blir teke
+frå vekesmåla ein gong om dagen. Intervalla kan vere brukerbestemte. Ein
+kan alltid _skrive_ til ei bøtte (tidsbolk).
+
+Analogt med register/cache/minne/disk/nettverk.
+
 ### RAG ###
 
 Skriv eit spel (Raptor Galore) i svart kvitt som køyrer på terminalen ved bruk
@@ -183,6 +208,9 @@ Handthere kommentarar
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Legge ut `EN-DAT`-prosjektet.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Haskell JSON prettifier
+
 ### Lære meir om lågnivå og systemprogrammering ###
 
  * [Linux Kernel Challenge](http://eudyptula-challenge.org/)
@@ -194,6 +222,24 @@ Blow seier). Rust er også spanande i forhold til eigarskapsreglar. Go kanskje,
 med tanke på concurrency og corutiner.
 
 [Digital signal prosessering (DSP)](http://www.dspguide.com/)
+
+### Kompilatorteknologi ###
+
+Lexing og Parsing, lære Go ("gorutiner"?). Corutiner som ein måte å impementere
+front-end kompilator på. Backend ikkje så spanande. Drageboka er klassikar for
+frontend.
+
+Lispvariantar er interessante med tanke på ein til ein forhold mellom AST og
+koda, som gjer macroar moglege.
+
+[Cljure for the Brave and True](http://www.braveclojure.com)
+
+Continuation passing style er interessant. Kva med shift/reset delimited
+continuations? Scala eller kanskje til og med Ruby?
+
+[How you should think about delimited continuations](http://jsuereth.com/scala/2010/03/10/how-you-should-think-about-delimited-continuations.html)
+
+Enkel Assembly emulator / flyttallsalgoritmer.
 
 Skriveprosjekt
 --------------
@@ -253,6 +299,14 @@ Ting eg vil lese om er
 * Binary Packing (paper)
 
 Sistnemnde vil eg og prøve å implementere i C.
+
+**Leseliste**
+
+* Mythical Man Month
+
+* Code Complete
+
+* Framework Design Guidelines
 
 ### Pianoprosjekt ###
 
