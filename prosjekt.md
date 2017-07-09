@@ -308,6 +308,8 @@ Sistnemnde vil eg og prøve å implementere i C.
 
 * Framework Design Guidelines
 
+* Peopleware: Productive Projects and Teams
+
 ### Pianoprosjekt ###
 
 Eg vil lære å spele piano, men med sangar / melodiar eg likar. Til dømes har eg
