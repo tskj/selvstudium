@@ -43,6 +43,10 @@ ML
 
 [A Beginner's Guide to Artificial Intelligence (book)](beginner's guide to artificial intelligence)
 
+[Deep Learning for Coders 1](https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&app=desktop)
+
+[Tensorflow 101](https://mubaris.com/2017-10-21/tensorflow-101)
+
 ### Martins tips ###
 
 Bacheloroppgåva hans
