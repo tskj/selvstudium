@@ -8,4 +8,4 @@ tidspunkt.
 Dei andre filene er pågåande læringsprosjekt. Der samlar eg ressursar eg
 brukar for å tilegne meg kunnskap innanfor desse domena.
 
-~~Gjennomstreka~~ er ting er ferdig med.
+~~Gjennomstreka~~ er ting eg er ferdig med.
