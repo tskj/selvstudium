@@ -41,7 +41,7 @@ ML
 
 [Neural Networks and Deep Learning - Free Online Book](http://neuralnetworksanddeeplearning.com/)
 
-[A Beginner's Guide to Artificial Intelligence (book)](beginner's guide to artificial intelligence)
+[A Beginner's Guide to Artificial Intelligence (book)](https://www.amazon.com/Artificial-Intelligence-Beginners-Guide-Guides/dp/185168607X)
 
 [Deep Learning for Coders 1](https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&app=desktop)
 
