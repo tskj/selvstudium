@@ -69,6 +69,8 @@ Bacheloroppgåva hans
 
 [Deep nets don't learn via memorization](https://openreview.net/pdf?id=rJv6ZgHYg)
 
+[Google Developers Machine Learning Recipes (high level overview)](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+
 ### Maskinlæringsbiblane ###
 
 [*Elements of Statistcal Learning* av Hastie og Tibshirani](http://lucasmreis.github.io/blog/type-driven-domain-modelling-part-1/)
