@@ -19,6 +19,8 @@ Statistikk og sannsynsrekning
 
 [How Bayesian Inference Works](https://brohrer.github.io/how_bayesian_inference_works.html)
 
+[Solvig Logistic Regression with Newton's Method](http://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method)
+
 
 ML
 ----
@@ -48,6 +50,10 @@ Bacheloroppgåva hans
 [Deep Learning på Youtube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 
 [Michael Nielson](http://neuralnetworksanddeeplearning.com/)
+
+[Lecture 12a: Neural Nets - Matte i dybda](https://www.youtube.com/watch?v=uXt8qF2Zzfo)
+
+[Lecture 12b: Neural Nets - Matte i dybda](https://www.youtube.com/watch?v=VrMHA3yX_QI&t=218s)
 
 ### Ressursar ###
 
