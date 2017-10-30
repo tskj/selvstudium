@@ -47,6 +47,7 @@ F#
 
 * [Ad-hoc Polymorphism (how to survive without typeclasses)](http://withouttheloop.com/articles/2014-10-21-fsharp-adhoc-polymorphism/)
 
+* [New ways of thinking and working with data](http://tomasp.net/)
 
 
 Generelle ressursar for vidare læring
@@ -63,3 +64,5 @@ Generelle ressursar for vidare læring
 [Recursion, Continuations and Trampolines](http://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
 
 [Monads to Machine Code (JIT?)](http://www.stephendiehl.com/posts/monads_machine_code.html)
+
+[Functional Reactive Programming on the Web](https://brage.bibsys.no/xmlui/bitstream/id/413689/12375_FULLTEXT.pdf)
