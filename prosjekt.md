@@ -310,6 +310,12 @@ Sistnemnde vil eg og prøve å implementere i C.
 
 * Peopleware: Productive Projects and Teams
 
+* Coders at Work
+
+* Joy Inc., Richard Sheridan
+
+* Peopleware
+
 ### Pianoprosjekt ###
 
 Eg vil lære å spele piano, men med sangar / melodiar eg likar. Til dømes har eg

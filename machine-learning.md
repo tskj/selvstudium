@@ -41,6 +41,8 @@ ML
 
 [Neural Networks and Deep Learning - Free Online Book](http://neuralnetworksanddeeplearning.com/)
 
+[A Beginner's Guide to Artificial Intelligence (book)](beginner's guide to artificial intelligence)
+
 ### Martins tips ###
 
 Bacheloroppgåva hans
