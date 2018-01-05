@@ -94,6 +94,8 @@ dette feltet forsvinn.
 
 Dot NET Core har støtte for grafisk teikning? Sjekk [her.](https://medium.com/@cameronaavik/cross-platform-graphics-in-net-core-901be29dabd7#.l3a2mjjlx)
 
+Eventuelt HTML 5 canvas.
+
 Eventuelt look into Treejs.
 
 ### Straum i den engelske kanal ###
@@ -179,6 +181,9 @@ Bidra til **Dolphin** (GameCube- og Wii-emulatoren) og **VSCodeVim**.
  * **VSCodeVim (TypeScript)** Fix buggar: record and playback (q) fungerer
  dårleg, og sletting med haker ([), (]) og krøllparenteser ({) og ({), er
  feil.
+
+ * **VSVim (F#)** Fix bug: Start i normalmodus. Trykk i, trykk Esc, trykk i
+ i rask sekvens. Dette oppfører seg annleis enn om du trykker sakte.
 
 **Eige arbeid**
 
@@ -313,8 +318,6 @@ Sistnemnde vil eg og prøve å implementere i C.
 * Coders at Work
 
 * Joy Inc., Richard Sheridan
-
-* Peopleware
 
 ### Pianoprosjekt ###
 
