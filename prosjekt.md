@@ -180,7 +180,8 @@ Bidra til **Dolphin** (GameCube- og Wii-emulatoren) og **VSCodeVim**.
 
  * **VSCodeVim (TypeScript)** Fix buggar: record and playback (q) fungerer
  dårleg, og sletting med haker ([), (]) og krøllparenteser ({) og ({), er
- feil.
+ feil. Også, kopiere (med yank (y)) i visuell linjemodus (V) kan ikkje
+ pastes frå register 0 ("0p) etter linje delete (dd).
 
  * **VSVim (F#)** Fix bug: Start i normalmodus. Trykk i, trykk Esc, trykk i
  i rask sekvens. Dette oppfører seg annleis enn om du trykker sakte.
