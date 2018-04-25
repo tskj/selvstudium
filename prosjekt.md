@@ -186,6 +186,10 @@ Bidra til **Dolphin** (GameCube- og Wii-emulatoren) og **VSCodeVim**.
  * **VSVim (F#)** Fix bug: Start i normalmodus. Trykk i, trykk Esc, trykk i
  i rask sekvens. Dette oppfører seg annleis enn om du trykker sakte.
 
+ * **Grib.Api.NET** Cross platform: Bygger currently berre på Windows. Hadde
+ vore fint å kunne bruke dotnet core. Også, iteratorar er problematiske i
+ forhold til Seq.map i F#.
+
 **Eige arbeid**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
