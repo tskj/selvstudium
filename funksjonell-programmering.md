@@ -49,6 +49,8 @@ F#
 
 * [New ways of thinking and working with data](http://tomasp.net/)
 
+* [Data structures and Zipppers](http://erichgess.github.io/)
+
 
 Generelle ressursar for vidare læring
 -------------------------------------
