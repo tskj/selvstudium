@@ -127,6 +127,10 @@ kan brukast for å "høre" dette gjennom lyden av dusjen. For også slik praktis
  / lært meir om Android (om dette skal implementerast på Anroid, ettersom det
 verkar vanskeleg å gjere på iOS).
 
+### Animert Hindcast ###
+
+Animering av NOAA sin hindcast (historical weather) data.
+
 ### JS Frameworks ###
 
 Redux og React ressursar:
